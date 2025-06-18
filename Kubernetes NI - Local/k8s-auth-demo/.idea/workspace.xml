@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e40b4c31-97ca-4c87-b487-5ce10aec5cff" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KIntermedio.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../configmap.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth-service.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db1.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db2.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/namespace.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pais-service.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secret.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webapp-volumen.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webapp.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Boot 2 - Servicio REST/ServicioREST.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Boot 2 - Servicio REST/pais/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Boot 2 - Servicio REST/pais/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Boot 2 - Servicio REST/pais/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Boot 2 - Servicio REST/pais/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Boot 2 - Servicio REST/pais/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Boot 2 - Servicio REST/pais/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Boot 2 - Servicio REST/pais/src/main/java/com/serviciciorest/pais/PaisApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Boot 2 - Servicio REST/pais/src/main/java/com/serviciciorest/pais/controller/PaisController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Boot 2 - Servicio REST/pais/src/main/java/com/serviciciorest/pais/model/Pais.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Boot 2 - Servicio REST/pais/src/main/java/com/serviciciorest/pais/repository/PaisRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Boot 2 - Servicio REST/pais/src/main/java/com/serviciciorest/pais/service/PaisService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Boot 2 - Servicio REST/pais/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring Boot 2 - Servicio REST/pais/src/test/java/com/serviciciorest/pais/PaisApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "lauracoicue"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:laurapena290805/Codelabs---Desarrollo-3.git",
+    "accountId": "488766da-a232-4aa3-b48a-29545f7f3173"
+  }
+}]]></component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2yfsnS2hE6R91ZSPRS6515g44rr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/laura/Escritorio/Codelabs---Desarrollo-3/Kubernetes NI - Local/k8s-auth-demo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19416.15" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19416.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e40b4c31-97ca-4c87-b487-5ce10aec5cff" name="Changes" comment="" />
+      <created>1750237128853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750237128853</updated>
+      <workItem from="1750237129951" duration="375000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
